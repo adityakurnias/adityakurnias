@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h3 align="center">I'm Newbie Developer</h3>
 
-<!--
-**adityakurnias/adityakurnias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=adityakurnias&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/adityakurnias)
+</p>
 
-Here are some ideas to get you started:
+<br>
+<h2 align="center"> 📈 ~ Github Stats ~ 📈 </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/adityakurnias"><img src="https://github-readme-stats.vercel.app/api?username=adityakurnias&theme=tokyonight&show_icons=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/adityakurnias"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adityakurnias&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+</p>
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide=css&theme=nightowl&hide_border=false&username=adityakurnias" height="150" alt="languages graph"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/adityakurnias"><img src="https://github-profile-trophy.vercel.app/?username=adityakurnias&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+</p>
