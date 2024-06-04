@@ -2,7 +2,6 @@
 <h3 align="center">I'm Newbie Developer</h3>
 
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=adityakurnias&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/adityakurnias)
-![readmebox](https://svgshare.com/i/15xW.svg)
 
 <br>
 <h2 align="center"> 📈 ~ Github Stats ~ 📈 </h2>
