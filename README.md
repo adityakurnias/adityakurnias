@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">I'm Newbie Developer</h3>
 
-<p align="center">
-  
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=adityakurnias&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/adityakurnias)
-</p>
+![readmebox](https://svgshare.com/i/15xW.svg)
 
 <br>
 <h2 align="center"> 📈 ~ Github Stats ~ 📈 </h2>
