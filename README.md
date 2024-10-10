@@ -59,7 +59,9 @@
 ###
 
 <br clear="both">
-
+<div align="center">
+  
+</div>
 <img src="https://raw.githubusercontent.com/adityakurnias/adityakurnias/main/snake.svg" alt="Snake animation" />
 
 ###
