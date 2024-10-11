@@ -108,6 +108,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/adityakurnias/adityakurnias/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adityakurnias/adityakurnias/main/snake.svg" alt="Snake animation" />
 
 ###
