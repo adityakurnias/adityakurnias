@@ -96,18 +96,18 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-profile-trophy.vercel.app?username=adityakurnias&no-bg=true&no-frame=true&theme=dark_lover&row=4&column=4&margin-w=2" height="150" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakurnias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=adityakurnias&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=adityakurnias&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityakurnias&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=adityakurnias&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakurnias&hide_title=true&theme=vue&area=false&hide_border=false" height="250" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=adityakurnias&no-bg=true&no-frame=true&theme=dark_lover&row=1&column=4&margin-w=2" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/adityakurnias/adityakurnias/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adityakurnias/adityakurnias/output/snake.svg" alt="Snake animation" />
 
 ###
