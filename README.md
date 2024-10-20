@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">🛠 Language/Frameworks and tools i use:</h3>
+<h3 align="left">🛠 Language, Frameworks and Tools i use:</h3>
 
 ###
 
