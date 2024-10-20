@@ -18,15 +18,15 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<p align="left">I'm Aditya Kurnia Saputra from Indonesia.<br><br>- 🔭 I’m working as Frontend Developer</p>
+<b align="left">I'm Aditya Kurnia Saputra from Indonesia.<br><br>- 🔭 I’m working as Frontend Developer</b>
 
 ###
 
