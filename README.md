@@ -30,7 +30,7 @@
 
 ###
 
-<h4 align="left">- 📚 I'm currently learning:</h4>
+<b align="left">- 📚 I'm currently learning:</b>
 
 ###
 
