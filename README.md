@@ -65,7 +65,7 @@
 
 ###
 
-<h2 align="left">I'm currently learning:</h2>
+<h2 align="left">📑 - I'm currently learning:</h2>
 
 ###
 
