@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋! My name is Aditya and I'm a Frontend Developer, i'm from Bogor, Indonesia.
+  Hi 👋! My name is Aditya and I'm a Frontend Developer, i'm from Bogor, Indonesia
 </h1>
 
 ###
