@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 My name is Kurnia<br>💻 I’m Frontend Web Developer and Game Developer
+👋 My name is Aditya<br>💻 I’m Frontend Web Developer and Game Developer
 
 
 ## 🌐 Socials:
