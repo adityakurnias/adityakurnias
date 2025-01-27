@@ -18,10 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=adityakurnias&theme=holi&hide_border=true&include_all_commits=true&count_private=true"  />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=adityakurnias&theme=holi-theme&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adityakurnias&theme=holi&no-frame=true&no-bg=true&margin-w=4"  />
