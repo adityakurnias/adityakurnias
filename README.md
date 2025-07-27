@@ -5,8 +5,8 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=adityakurnias&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=adityakurnias&theme=gotham&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakurnias&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=adityakurnias&theme=gotham&hide_border=false)
 ![](https://github-profile-trophy.vercel.app/?username=adityakurnias&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
