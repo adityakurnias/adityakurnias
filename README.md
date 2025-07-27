@@ -2,10 +2,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityakurnias&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakurnias&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph"  />
-</div>
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=adityakurnias&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=adityakurnias&theme=gotham&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakurnias&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=adityakurnias&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ###
 
@@ -13,7 +18,7 @@
 
 ###
 
-<h3 align="center">Tech that I use</h3>
+<h3 align="center">Tech that I use: </h3>
 
 ###
 
@@ -87,16 +92,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=adityakurnias&column=5&row=4&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/adityakurnias/count.svg?"  />
-</div>
+[![](https://visitcount.itsvg.in/api?id=adityakurnias&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
