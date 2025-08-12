@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Aditya and I'm a Frontend Web Developer and Game Developer, from Indonesia.</h2>
+<h2 align="center">Hi 👋! My name is Aditya and I'm a Web Developer and Game Developer, from Indonesia.</h2>
 
 ###
 
