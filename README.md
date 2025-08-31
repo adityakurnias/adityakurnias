@@ -1,12 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋! My name is Aditya</h1>
-
-###
-
-<br clear="both">
-
-<p align="center">I'm a Web Developer and Game Developer, from Indonesia.</p>
+<h1 align="center">Hi 👋! My name is Aditya, I'm a Web Developer and Game Developer, from Indonesia.</h1>
 
 ###
 
