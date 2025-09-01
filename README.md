@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<h4 align="center">Stack:</h4>
+<h4 align="center">Tech I use</h4>
 
 ###
 
