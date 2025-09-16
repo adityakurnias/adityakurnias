@@ -7,8 +7,11 @@
 <h3 align="center">💡 About Me</h3>
 
 <p align="center">
-  I'm passionate about building modern web apps and indie games.  
-  I love working with both frontend and backend technologies, exploring new tools.  
+I'm passionate about building modern web apps and indie games.
+I love working with both frontend and backend technologies, exploring new tools,
+and experimenting with different frameworks to improve my workflow.
+I enjoy creating clean, scalable solutions, learning new programming languages,
+and bringing creative ideas to life through code.
 </p>
 
 ###
