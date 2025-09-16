@@ -4,6 +4,23 @@
 
 ###
 
+<h3 align="center">💡 About Me</h3>
+
+<p align="center">
+  I'm passionate about building modern web apps and indie games.  
+  I love working with both frontend and backend technologies, exploring new tools.  
+</p>
+
+###
+
+<h3 align="center">🌱 Currently Learning</h3>
+
+<p align="center">
+  Currently diving deeper into <b>Ruby</b> and its ecosystem 🚀
+</p>
+
+###
+
 <br clear="both">
 
 <div align="center">
