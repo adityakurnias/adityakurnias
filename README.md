@@ -17,7 +17,7 @@ and experimenting with different frameworks to improve my workflow.
 <h3 align="center">🌱 Currently Learning</h3>
 
 <p align="center">
-  Currently diving deeper into <b>Ruby</b> and its ecosystem 🚀
+  Currently diving deeper into <b>Ruby</b> and its ecosystem.
 </p>
 
 ###
