@@ -43,8 +43,8 @@ class Developer
   end
 end
 
-adit = Developer.new
-adit.introduce
+kurnias = Developer.new
+kurnias.introduce
 
 ```
 
