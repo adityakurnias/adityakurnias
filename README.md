@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://tenor.com/view/c2-snow-code-geass-lelouch-lelouch-vi-britannia-gif-23820941.gif"  />
+</div>
+
 <br clear="both">
 
 <h1 align="center">Hi 👋! My name is Aditya, I'm a Web Developer and Game Developer, from Indonesia.</h1>
