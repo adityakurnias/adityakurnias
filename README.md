@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://tenor.com/view/c2-snow-code-geass-lelouch-lelouch-vi-britannia-gif-23820941.gif"  />
+  <img width="100%" src="./banner.jpg"  />
 </div>
 
 <br clear="both">
