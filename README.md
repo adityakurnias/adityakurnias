@@ -64,7 +64,7 @@ tech = {
 
   backend: [
     "PHP", "Laravel", 
-    "Node.js", "Deno"
+    "Node.js", "Hono"
   ],
 
   database: [
@@ -79,7 +79,8 @@ tech = {
   tools: [
     "VS Code", "Zed", "Figma",
     "Linux", "Git", "GitHub",
-    "Composer", "NPM", "PNPM", "Vite"
+    "Composer", "NPM", "PNPM",
+    "Deno", "Bun", "Vite"
   ],
 
   game_engine: [
