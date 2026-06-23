@@ -36,7 +36,7 @@ class Developer
     @education = {
       major: "Software Engineering",
       school: "🏫 SMK Plus Pelita Nusantara",
-      status: "🧑‍🎓 Grade 12 "
+      status: "🧑‍🎓 Graduated "
     }
   end
 
