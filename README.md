@@ -64,11 +64,11 @@ tech = {
 
   backend: [
     "PHP", "Laravel", 
-    "Node.js", "Hono"
+    "Hono"
   ],
 
   database: [
-    "MySQL", "SQLite", "PostgreSQL"
+    "MySQL", "SQLite"
   ],
 
   languages: [
@@ -79,12 +79,16 @@ tech = {
   tools: [
     "VS Code", "Zed", "Figma",
     "Linux", "Git", "GitHub",
-    "Composer", "NPM", "PNPM",
-    "Deno", "Bun", "Vite"
+    "Composer", "NPM", "PNPM", 
+    "Bun", "Vite"
   ],
 
   game_engine: [
-    "Godot", "Unity"
+    "Godot"
+  ],
+
+  Currently_learning: [
+    "Rust", "PostgreSQL"
   ]
 }
 
