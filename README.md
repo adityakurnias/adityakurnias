@@ -86,10 +86,6 @@ tech = {
   game_engine: [
     "Godot"
   ],
-
-  Currently_learning: [
-    "Rust", "PostgreSQL"
-  ]
 }
 
 tech.each do |category, items|
